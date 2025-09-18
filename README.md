@@ -19,7 +19,7 @@ LED brightness control project using ESP32, CLI, potentiometer, PWM and RTOS.
 
 ## Installation
 - Clone this repository:  
-  git clone https://github.com/username/led-brightness-control.git
+  git clone https://github.com/GoldmanLiyam/led-brightness-control.git
 - Open with VS CODE and PlatformIO extension
 - Connect ESP32 board
 - Upload code via PlatformIO
@@ -38,5 +38,6 @@ LED brightness control project using ESP32, CLI, potentiometer, PWM and RTOS.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 Created by Liyam Goldman
