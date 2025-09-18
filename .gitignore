@@ -1,0 +1,16 @@
+# Build artifacts (ESP-IDF / PlatformIO)
+build/
+.pio/
+
+# ESP-IDF configuration
+sdkconfig
+sdkconfig.old
+
+# VS Code local settings
+.vscode/
+
+# Compiled files and binaries
+*.elf
+*.map
+*.bin
+*.log
