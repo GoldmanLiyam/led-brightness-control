@@ -27,17 +27,17 @@ LED brightness control project using ESP32, CLI, potentiometer, PWM and RTOS.
 
 ---
 
-###  Project Images
+### 📸 Project Images
 <p align="center">
   <img src="assets/img1.jpg" width="400"/>
   <br/>
-  <em>[LED Brightness Control breadboard – top view]</em>
+  <em>LED Brightness Control breadboard – top view</em>
 </p>
 
 <p align="center">
   <img src="assets/img2.jpeg" width="400"/>
   <br/>
-  <em>[LED Brightness Control breadboard – front view]</em>
+  <em>LED Brightness Control breadboard – front view</em>
 </p>
 
 ## Installation
@@ -64,4 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 Created by Liyam Goldman
+
 
