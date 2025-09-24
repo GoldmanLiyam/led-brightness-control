@@ -17,6 +17,29 @@ LED brightness control project using ESP32, CLI, potentiometer, PWM and RTOS.
 - As soon as the system is turned ON, a new reading will occur.
 - In case the timer won't stop/start, an infinite loop will occur, which triggers the watchdog.
 
+## 📽️ Demo
+
+### 🎞️ GIF 1 – CLI Example
+![CLI demonstration](assets/demo1.gif)
+
+### 🎞️ GIF 2 – Brightness Control Example
+![Demonstration for controlling the brightness of the LED](assets/demo2.gif)
+
+---
+
+###  Project Images
+<p align="center">
+  <img src="assets/img1.jpg" width="400"/>
+  <br/>
+  <em>[LED Brightness Control breadboard – top view]</em>
+</p>
+
+<p align="center">
+  <img src="assets/img2.jpeg" width="400"/>
+  <br/>
+  <em>[LED Brightness Control breadboard – front view]</em>
+</p>
+
 ## Installation
 - Clone this repository:  
   git clone https://github.com/GoldmanLiyam/led-brightness-control.git
@@ -41,3 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 Created by Liyam Goldman
+
