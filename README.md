@@ -17,7 +17,7 @@ LED brightness control project using ESP32, CLI, potentiometer, PWM and RTOS.
 - As soon as the system is turned ON, a new reading will occur.
 - In case the timer won't stop/start, an infinite loop will occur, which triggers the watchdog.
 
-## 📽️ Demo
+## Demo
 
 ### 🎞️ GIF 1 – CLI Example
 ![CLI demonstration](assets/demo1.gif)
@@ -64,5 +64,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 Created by Liyam Goldman
+
 
 
